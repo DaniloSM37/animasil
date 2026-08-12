@@ -1,0 +1,45 @@
+cartas/vantagens/desvantagens
+Águia-cinzenta
+Gavião-gato-grande
+Gavião-pato
+Gavião-de-penacho
+
+5 fodas
+10 daoras
+15 pebas/mid
+
+cartas fodas
+-Casuar-do-sul / melhora o dano / a definir
+-Avestruz / melhora a velocidade andando / a definir
+-condor-dos-andes / almenta o alcançe dos golpes / a definir
+-falcão-peregrino / melhora a velocidade voando / a definir
+-Coruja-parda / melhora a visão / a definir
+
+cartas daora
+-urubu / permite comer o corpo dos inimigos / a definir
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+cartas pebas/mid
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-Jacu-cigano
+-Kakapo / permite se disfarçar na mata a pé / impossibilita o voo enquanto ativo
+-Dodo / pode comer pedras para recuperar hp / te deixa lento por um tempo
